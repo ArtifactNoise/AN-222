@@ -45,3 +45,11 @@ CC端子に抵抗を取り付ける事が出来ますので、TypeCタイプの�
 
     ![資料](./AN-222.pdf)
 
+ - Python操作用ライブラリー
+   
+      - PyMCP2221A
+         https://github.com/nonNoise/PyMCP2221A
+      
+      I2C detectで試すことが出来ます。
+      
+      https://github.com/nonNoise/PyMCP2221A/blob/master/example/MCP2221_i2cdetect.py
